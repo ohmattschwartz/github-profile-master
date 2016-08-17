@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image:url('https://analogaddiction.files.wordpress.com/2013/08/grey-background-for-site11.jpg');
+}
+
+.Avatar img {
+  max-height: 200px;
+  max-width: 200px;
+  margin-left: 10px;
+  border: 3px solid grey;
+}
+
+h1 {
+  font-size: 90px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-top: 0px;
+  padding-top: 20px;
+  padding-bottom: 0px;
+  padding-left: 10px;
+  background-color: grey;
+}
+
+h2 {
+  margin-top: 0px;
+  margin-left: 0px;
+  padding-left: 17px;
+  padding-bottom: 20px;
+  background-color: grey;
+}
+
+p {
+  margin-left: 30px;
+  font-size: 20px;
+  font-weight: bold;
+  text-shadow: 0px 5px 5px grey;
+}
+
+.Bio {
+  margin-left: 25px;
+}
+
+.Footer img {
+  height: 80px;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: grey;
+  padding-right: 650px;
+  padding-left: 7px;
+}
